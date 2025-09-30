@@ -8,7 +8,7 @@ Este é um projeto desenvolvido em **C** que implementa o clássico jogo **Super
 
 **Bruna Garcia**  
 Estudante do 1º Semestre - Curso de Tecnologia da Informação  
-Universidade Estácio de Sá
+Universidade Estácio
 
 ## 🎯 Funcionalidades
 
@@ -127,7 +127,6 @@ Este projeto é de uso educacional e foi desenvolvido para fins acadêmicos.
 **Bruna Garcia**  
 📧 Email: [bruba.garcia.bg@gmail.com]  
 🎓 Curso: Tecnologia da Informação - 1º Semestre  
-🏫 Universidade Estácio de Sá
 
 ---
 
