@@ -1,0 +1,23 @@
+# Arquivos compilados
+*.exe
+*.out
+*.o
+supertrunfo
+supertrunfo.exe
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# Arquivos temporários
+*.tmp
+*.temp
